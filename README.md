@@ -3,7 +3,10 @@
 deje la carrera para ser autodidacta 0_0, pero aca estoy subiendo esto para que mis amigos tengan una fuente de verdad para que no esteen tan perdidos respecto a lo que se debe hacer
 
 ---
+![Architecture Diagram](<img width="585" height="615" alt="Pipeline 2026-06-23 17 13 55 excalidraw" src="https://github.com/user-attachments/assets/0f50736c-124e-4d2e-901a-bad16b3607e7" />
+)
 
+---
 ## Descripción general
 
 El sistema emula las operaciones básicas de un cajero automático bancario. El usuario inicia sesión con su DNI y PIN, y accede a un menú interactivo desde donde puede consultar su saldo, extraer efectivo, depositar dinero, transferir fondos a otras cuentas del banco, visualizar el historial de operaciones realizadas y cambiar su PIN.
