@@ -30,6 +30,12 @@ La sesión cuenta con un límite de 3 intentos fallidos de ingreso, tras los cua
 
 ---
 
+## Diagrama de arquitectura
+
+![Pipeline](Pipeline%202026-06-23%2017.13.55.excalidraw.png)
+
+---
+
 ## Estructura del proyecto
 
 ```
